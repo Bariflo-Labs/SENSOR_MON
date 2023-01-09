@@ -1,1 +1,2 @@
-[![DETAILS](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+- DETAILS
+[![DETAILS](https://github.com/Bariflo-Labs/SENSOR_MON/blob/Main-Branch/Monitoring%20Device-Algo.pdf)
